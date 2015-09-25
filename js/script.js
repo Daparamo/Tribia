@@ -48,7 +48,7 @@ $(function()
 		}
 		else
 		{
-			if(puntaje > 30) {
+			if(puntaje > 10) {
 				 swal("Ganaste", "Tu puntaje es: "+puntaje, "succes")
 			}
 			else
@@ -79,7 +79,7 @@ $(function()
 			cargarPregunta(Math.floor(Math.random()*preguntas.length));
 			preguntas[numPregunta].salio = "si";
 			/*/
-			if (errores === 4) 
+			if (errores === 10) 
 			{								
 				swal("Perdiste", "3 errores en esta partida Puntaje Final: "+puntaje, "error");		
 				$("#ecuacion").delay(3000).fadeOut('slow', function() {					
