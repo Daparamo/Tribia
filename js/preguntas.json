@@ -1,0 +1,63 @@
+[
+	{
+		"pregunta" 	: "¿Cuántos Planetas tiene el sistema Solar?", 
+		"opciones"	: [3, 10, 8, 9], 
+		"correcta"	: 3,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿En qué País Nación Simón Bolivar?", 
+		"opciones"	: ["Perú", "Venezuela", "Colombia", "Nicaragua"], 
+		"correcta"	: 2	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿En cúal país se encuentra la torre de Pisa? ", 
+		"opciones"	: ["Perú", "Lituania", "Francia", "Italia"], 
+		"correcta"	: 4,
+		"salio" 	: "no"
+		
+	},
+	{
+		"pregunta" 	: "¿Cúal es la última letra del alfabeto griego?", 
+		"opciones"	: ["Omega", "Alpha", "Zeta", "theta"], 
+		"correcta"	: 1	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿Cúal es el Reptil cuya piel cambia de color?", 
+		"opciones"	: ["Tortuga", "Camaleón", "Iguana", "Cobra"], 
+		"correcta"	: 2	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿Qué Número de años que debes tener de casado para festejar tus bodas de oro?", 
+		"opciones"	: ["50", "25", "30", "60"], 
+		"correcta"	: 1	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿Cúantas Horas en promedio, duerme un gato al día?", 
+		"opciones"	: ["8", "16", "12", "14"], 
+		"correcta"	: 4	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "Es la bebida alcohólica más importante de Japón, destilada del arroz.", 
+		"opciones"	: ["wasabi ", "Awamori", "Sake", "Umeshu"], 
+		"correcta"	: 3	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿En cual país queda la famosa Torre Eiffel?", 
+		"opciones"	: ["Perú", "Lituania", "Francia", "Italia"], 
+		"correcta"	: 3	,
+		"salio" 	: "no"
+	},
+	{
+		"pregunta" 	: "¿Cual es el único mamífero capaz de volar?", 
+		"opciones"	: ["murciélago", "Pinguino", "Ornitorrinco", "Pelícano "], 
+		"correcta"	: 1	,
+		"salio" 	: "no"
+	}	
+]
