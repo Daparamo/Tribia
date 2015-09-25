@@ -6,7 +6,7 @@
 		"salio" 	: "no"
 	},
 	{
-		"pregunta" 	: "¿En qué País Nación Simón Bolivar?", 
+		"pregunta" 	: "¿En qué País Nació Simón Bolivar?", 
 		"opciones"	: ["Perú", "Venezuela", "Colombia", "Nicaragua"], 
 		"correcta"	: 2	,
 		"salio" 	: "no"
