@@ -31,7 +31,7 @@
 		"salio" 	: "no"
 	},
 	{
-		"pregunta" 	: "¿Qué Número de años que debes tener de casado para festejar tus bodas de oro?", 
+		"pregunta" 	: "¿Número de años que debes tener de casado para festejar tus bodas de oro?", 
 		"opciones"	: ["50", "25", "30", "60"], 
 		"correcta"	: 1	,
 		"salio" 	: "no"
